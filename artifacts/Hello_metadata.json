@@ -17,6 +17,19 @@
 				],
 				"stateMutability": "pure",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "world",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -47,11 +60,11 @@
 	},
 	"sources": {
 		"campain.sol": {
-			"keccak256": "0x7f5af3bc97c2843213e13ae102f30f208296e294db93ebede5f668e24b127de4",
+			"keccak256": "0xe403f1c643aed074c8de9c5d751e02784a584dfda8eedcce0245b966943fcb6b",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://c72c03a31cfb9337f1b63050f6be40037dea568daadfe1d9e881084b6b829cf0",
-				"dweb:/ipfs/Qmf8PkYUSXrk3L3mbQQAy9R578Q5jWWDWwsa4HkQEgtsAT"
+				"bzz-raw://a9da1594016eed951849c99b2d8903d4c243d50d7bcc8c8de2bf91d21fa8f862",
+				"dweb:/ipfs/QmYn7xUT35o638KdQUbPkr6QsyNyDSCUG7CSf4QQNu1FJE"
 			]
 		}
 	},
